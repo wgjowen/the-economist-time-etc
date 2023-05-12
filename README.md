@@ -1,7 +1,7 @@
 # The Unofficial Economist App
 This unofficial Economist app collects all the articles data of [Economist](https://economist.com) starting from January 2023. The app is used for my own use and the app is shown below.
 
-![](https://github.com/HuangRunHua/economist-database/raw/main/Cover.JPEG)
+![](https://github.com/HuangRunHua/economist-database/raw/main/cover.png)
 
 ## Why Develop
 
